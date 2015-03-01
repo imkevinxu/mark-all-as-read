@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
-  "version": "1.1",
+  "version": "1.2",
   "name": "Mark All as Read",
   "short_name": "Mark All as Read",
   "author": "Kevin Xu",
   "description": "Mark all the links on page as read with the click of a button",
-  "homepage_url": "http://imkevinxu.github.io/mark-all-as-read/",
+  "homepage_url": "https://chrome.google.com/webstore/detail/mark-all-as-read/hocgdeifbnjnhhjiphmooojohmahocdl",
   "icons": {
     "16": "icon/icon16.png",
     "32": "icon/icon32.png",
