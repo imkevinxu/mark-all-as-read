@@ -8,6 +8,8 @@ You can install this extension from the [Chrome Web Store](https://chrome.google
 
 [![Mark All as Read on Chrome Web Store](screenshots/webstore.png)](https://chrome.google.com/webstore/detail/mark-all-as-read/hocgdeifbnjnhhjiphmooojohmahocdl)
 
+[![Screenshot](screenshots/screenshot.png)](https://chrome.google.com/webstore/detail/mark-all-as-read/hocgdeifbnjnhhjiphmooojohmahocdl)
+
 ## Features
 
 - Click the icon in the extensions bar once to mark all links as read
