@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Mark All as Read",
+  "description": "Mark all the links on page as read with the click of a button",
+  "homepage_url": "http://imkevinxu.github.io/mark-all-as-read/",
+  "icons": {
+    "16": "icon/icon16.png",
+    "32": "icon/icon32.png",
+    "48": "icon/icon48.png",
+    "128": "icon/icon128.png"
+  },
+
+  "browser_action": {
+    "default_icon": {
+      "19": "icon/icon19.png",
+      "38": "icon/icon38.png"
+    },
+    "default_title": "Mark All as Read"
+  },
+  "permissions": ["history", "tabs", "<all_urls>"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [{
+    "matches": ["<all_urls>"],
+    "js": ["markallasread.js"]
+  }]
+}
