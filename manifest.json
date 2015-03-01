@@ -1,7 +1,9 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.1",
   "name": "Mark All as Read",
+  "short_name": "Mark All as Read",
+  "author": "Kevin Xu",
   "description": "Mark all the links on page as read with the click of a button",
   "homepage_url": "http://imkevinxu.github.io/mark-all-as-read/",
   "icons": {
