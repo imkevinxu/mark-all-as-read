@@ -2,7 +2,7 @@
 
 One-click button to mark all the links on the page as read.
 
-This turns all links to the `:visited` color so you know what you've seen before and didn't want to click on. Useful for Hacker News, Product Hunt, Designer News, and Reddit.
+This turns all links to the `:visited` color so you know what you've seen before and didn't want to click on. Useful for Hacker News, Product Hunt, Designer News, Reddit, or Craigslist.
 
 You can install this extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/mark-all-as-read/hocgdeifbnjnhhjiphmooojohmahocdl).
 
